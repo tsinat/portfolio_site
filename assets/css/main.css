@@ -86,6 +86,7 @@
 }
 .resume a {
 	text-decoration: none;
+	border-bottom: none !important;
 }
 .resume-pdf {
 	margin-left:5px;
