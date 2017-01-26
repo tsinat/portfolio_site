@@ -74,6 +74,19 @@
 	padding: 0!important;
 	margin-bottom: 10px;
 }
+.resume {
+	position: absolute;
+	bottom: 80px;
+	/*right: 20px;
+	left:20px;*/
+	width: 80%;
+	margin:20px 20px 0 20px !important;
+	/*background: red !important;*/
+	border: 2px solid #E27689;
+}
+.resume a {
+	text-decoration: none;
+}
 
 @media screen and (min-width:761px) and (max-width: 1880px) {
 	.contactDetail {
